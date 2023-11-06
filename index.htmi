@@ -1,3 +1,15 @@
+//h1-titulo
+//p- paragrafo
+//strong  -   negrito
+//doctype - linguagem
+//lang - idioma
+//head - cabeca {inicio}
+//title- titulo
+//bodi - corpo do texto
+
+
+
+
 
 <!DOCTYPE html>
 <html lang="pt-br">
